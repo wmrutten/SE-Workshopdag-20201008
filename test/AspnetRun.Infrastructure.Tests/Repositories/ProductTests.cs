@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using Xunit;
 using Xunit.Abstractions;
 
+// Changed for testing purposes
+
 namespace AspnetRun.Infrastructure.Tests.Repositories
 {
     public class ProductTests
